@@ -1,6 +1,6 @@
 [project]
 name = "merge-front-back"
-version = "0.0.1"
+version = "1.0.0b1"
 description = "Merge two single-sided scanned PDFs into a duplex document"
 authors = [{ name = "Doug Ransom", email = "doug@ransom.vip" }]
 readme = "readme.md"
