@@ -10,6 +10,9 @@ dependencies = ["pypdf>=4.0.0"]
 [tool.flit.module]
 name = "merge_front_back"
 location = "src"
+[project.urls]
+Repository = "https://github.com/dougransom/merge-front-back"
+
 
 [project.scripts]
 merge_front_back = "merge_front_back.merge_front_back:main"
